@@ -23,7 +23,7 @@ export default function Sobre() {
                 Quem sou eu
               </div>
               <h1 className="md:text-6xl lg:text-7xl text-4xl font-semibold tracking-tighter text-white mb-6 leading-[1.1]">
-                Engenharia de Elite <br/> <span className="text-zinc-400 italic font-light">&amp; Visão de Negócio</span>
+                Engenharia de Elite <br /> <span className="text-zinc-400 italic font-light">&amp; Visão de Negócio</span>
               </h1>
               <p className="text-lg md:text-xl text-zinc-400 max-w-2xl font-light leading-relaxed mx-auto">
                 Na NexoraLabs, Wagner Salla projeta máquinas de crescimento autônomo, unindo software de alta performance com IA para escalar operações sem atrito.
@@ -45,12 +45,12 @@ export default function Sobre() {
                 <div className="absolute bottom-0 left-0 right-0 px-8 pb-8 pt-24 bg-gradient-to-t from-white via-white/95 to-transparent">
                   <p className="text-xs uppercase tracking-widest text-orange-600 font-bold mb-1">Founder &amp; Growth Architect</p>
                   <p className="text-2xl font-semibold text-zinc-900 tracking-tight">Wagner Salla</p>
-                  <p className="text-sm text-zinc-500 mt-1">São Paulo, Brasil</p>
+                  <p className="text-sm text-zinc-500 mt-1">Vitória-ES, Brasil</p>
                 </div>
                 {/* Floating badge */}
                 <div className="absolute top-6 right-6 bg-white/80 backdrop-blur-sm border border-zinc-100 rounded-2xl px-4 py-3 shadow-md">
                   <p className="text-[10px] uppercase tracking-wider text-zinc-400 font-medium">Experiência</p>
-                  <p className="text-xl font-semibold text-zinc-900 tracking-tight">+5 anos</p>
+                  <p className="text-xl font-semibold text-zinc-900 tracking-tight">+10 anos</p>
                 </div>
               </div>
             </div>

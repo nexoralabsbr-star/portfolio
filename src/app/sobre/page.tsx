@@ -42,8 +42,8 @@ export default function Sobre() {
                   fill
                   className="object-cover object-center"
                 />
-                <div className="absolute bottom-0 left-0 right-0 p-8 bg-gradient-to-t from-white via-white/90 to-transparent">
-                  <p className="text-xs uppercase tracking-widest text-zinc-400 font-medium mb-1">Founder &amp; Growth Architect</p>
+                <div className="absolute bottom-0 left-0 right-0 px-8 pb-8 pt-24 bg-gradient-to-t from-white via-white/95 to-transparent">
+                  <p className="text-xs uppercase tracking-widest text-orange-600 font-bold mb-1">Founder &amp; Growth Architect</p>
                   <p className="text-2xl font-semibold text-zinc-900 tracking-tight">Wagner Salla</p>
                   <p className="text-sm text-zinc-500 mt-1">São Paulo, Brasil</p>
                 </div>

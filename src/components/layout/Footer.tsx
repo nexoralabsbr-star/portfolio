@@ -79,7 +79,7 @@ export const Footer = () => {
       {/* Socials & Copyright */}
       <div className="flex flex-col md:flex-row items-center justify-between mt-20 pt-8 border-t border-zinc-100 gap-6">
         <div className="flex gap-8">
-          <a href="#" className="text-xs font-bold text-zinc-400 hover:text-zinc-900 transition-colors uppercase tracking-widest">Linkedln</a>
+          <a href="#" className="text-xs font-bold text-zinc-400 hover:text-zinc-900 transition-colors uppercase tracking-widest">LinkedIn</a>
           <a href="#" className="text-xs font-bold text-zinc-400 hover:text-zinc-900 transition-colors uppercase tracking-widest">Instagram</a>
           <a href="#" className="text-xs font-bold text-zinc-400 hover:text-zinc-900 transition-colors uppercase tracking-widest">GitHub</a>
         </div>
